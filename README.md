@@ -10,3 +10,4 @@ https://www.makerguides.com/sharp-gp2y0a21yk0f-ir-distance-sensor-arduino-tutori
 
 
 
+Note: We also have the keyboard and mouse version in the zip file named final_draft_keyboard so feel free to try it out!
